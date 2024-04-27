@@ -1,5 +1,5 @@
 # DOOM
-Low level approach to designing a simple 3D game
+simple console CPU application to try and come up with optimization techniques
 
 DOOM32 - 2d raycasting engine
 
